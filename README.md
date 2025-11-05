@@ -1,1 +1,3 @@
-# sporalq.github.io
+Please visit:
+# sporalq.vercel.app
+to access sporalq!
